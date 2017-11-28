@@ -1,2 +1,3 @@
-# AnalyticsCompetitions
-I will upload codes from machine learning competitions.
+# Machine Learning Competitions Codes
+
+This repository contains the codes that has been written for Machine Learning competitions.
