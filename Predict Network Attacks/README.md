@@ -26,3 +26,10 @@ Scored Rank 80 on the public leaderboard.
 1. Predicting the probability and then setting the threshold improves the reults. Plot AUC-ROC curve to decide the threshold.
 
 2. Always save your submission file in a systematic manner else very soon you will lose control over your submissions and later nothing will sense.
+
+### Future work
+
+Class 3 has been very badly predicted hence we need to find some way to improve the results to predict class 3 too.
+
+![Confusion Matrix](https://github.com/theainerd/MLCompetitions/blob/master/Predict%20Network%20Attacks/Screenshot%20from%202017-12-01%2010-42-02.png)
+ 3
