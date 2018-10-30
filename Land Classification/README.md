@@ -4,8 +4,8 @@ Multiclass classification problem : Classify the data into any one of the 4 clas
 ## Project Structure
 
 - input
-	- train.tsv
-	- test.tsv 
+	- train.csv
+	- test.csv 
 - notebooks (contain Ipython notebooks)
 - output
 - docs (contain the short report)
