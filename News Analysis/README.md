@@ -28,7 +28,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 Open the terminal & Install the dependencies .
 
 ```sh
-$ cd socialcops
+$ cd newsanalysis
 $ pip install -r requirements.txt
 $ cd script
 $ python3 json_to_csv.py
