@@ -13,7 +13,6 @@ News Analysis/
 ├── docs/                                                 
 ├── script/                                     # Python Scripts
 |   └── json_to_csv.py
-|   └── buildmodel.py
 ├── cleaned/                                    # Cleaned Data
 |   └── newsdata.csv
 └── README.md
@@ -33,5 +32,6 @@ $ cd socialcops
 $ pip install -r requirements.txt
 $ cd script
 $ python3 json_to_csv.py
-$ python3 buildmodel.py
+$ cd notebook
+$ jupyter 02 Model Building.ipynb
 ```sh
